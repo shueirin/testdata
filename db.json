@@ -47,19 +47,7 @@
             "companyId": "2"
         }
     ],
-    "companies" : [
-        {
-            "id" : 1,
-            "name" : "AppleComp",
-            "description" : "The multinational security corporation Blackwater Worldwide was reported to have obtained over thirty dummy corporations in order to secure million dollar contracts from the United States government. "
-        },
-        {
-            "id" : 2,
-            "name" : "Glencairn",
-            "description" : "Glencairn, Ltd was an American company used by the Sinclair Broadcast Group to operate virtual duopolies during the 1990s when legal duopolies weren"t legal by the Federal Communications Commission. The initial capital was supplied by Carolyn Smith, wife of Sinclair founder Julian Smith and mother of current Sinclair CEO David Smith. Carolyn Smith also controlled 70% of Glencairn"s stock, eventually reaching 97%.  "
-        }
-    ],
-      "occupationList" : [
+    "occupationList" : [
         {
             "id" : 1,
             "occupation" : "Self Employed"
