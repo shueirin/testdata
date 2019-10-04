@@ -45,6 +45,6 @@
            "sellprice" :  45666,
            "buyprice" : 23435,
            "vendorColor" : "rgba(191, 212, 46, 1)"
-        },
+        }
     ]
 }
