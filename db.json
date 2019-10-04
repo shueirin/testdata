@@ -1,26 +1,4 @@
 {
-    "orders": [
-        {
-            "id":1,
-            "name": "Jack",
-            "drink": "Coffee Latte"
-        },
-        {
-            "id":2,
-            "name" : "Jill",
-            "drink": "Matcha Latte"
-        },
-        {
-            "id":3,
-            "name" : "Maxima",
-            "drink": "Original Blend"
-        },
-        {
-            "id":4,
-            "name" : "Karen",
-            "drink": "Strawberry Juice"
-        }
-    ],
     "vendors": [
         {
             "name":"Pluang Emas",
