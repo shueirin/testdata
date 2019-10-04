@@ -21,7 +21,7 @@
             "drink": "Strawberry Juice"
         }
     ],
-	"users" : [
+    "users" : [
         {
             "id" : 1,
             "firstName": "Jane",
@@ -47,7 +47,7 @@
             "companyId": "2"
         }
     ],
-	 "companies" : [
+    "companies" : [
         {
             "id" : 1,
             "name" : "AppleComp",
@@ -72,31 +72,31 @@
             "id" : 3,
             "occupation" : "Profesional"
         }
-    ],
-	"drinkMenu" :[
-		{
-			"id": 1,
-			"drinkItem": "Matcha Latte"
-		},
-		{
-			"id": 2,
-			"drinkItem": "Coffee Latte"
-		},
-		{
-			"id": 3,
-			"drinkItem": "Milk Tea"
-		},
-		{
-			"id": 4,
-			"drinkItem": "Rose Tea"
-		},
-		{
-			"id": 5,
-			"drinkItem": "Bir Bintang"
-		},
-		{
-			"id": 6,
-			"drinkItem": "Es Teh Manis"
-		}
-	]
+    ],  
+    "drinkMenu" :[
+	{
+		"id": 1,
+		"drinkItem": "Matcha Latte"
+	},
+	{
+		"id": 2,
+		"drinkItem": "Coffee Latte"
+	},
+	{
+		"id": 3,
+		"drinkItem": "Milk Tea"
+	},
+	{
+		"id": 4,
+		"drinkItem": "Rose Tea"
+	},
+	{
+		"id": 5,
+		"drinkItem": "Bir Bintang"
+	},
+	{
+		"id": 6,
+		"drinkItem": "Es Teh Manis"
+	}
+     ]
 }
