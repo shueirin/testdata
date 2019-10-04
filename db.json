@@ -1,28 +1,62 @@
 {
-    "vendors": [
+    "orders": [
         {
-            "name":"Pluang Emas",
-            "sellprice":[ 52347, 48734, 53653, 54896],
-            "buyprice":[ 43347, 46734, 52653, 52896],
-            "vendorColor":"rgba(62, 141, 235, 1)",
+            "id":1,
+            "name": "Jack",
+            "drink": "Coffee Latte"
         },
         {
-            "name":"Buka Emas",
-            "sellprice":[ 56558, 49779, 49276],
-            "buyprice":[ 43558, 43779, 42276],
-            "vendorColor":"rgba(215, 16, 73, 1)",
+            "id":2,
+            "name" : "Jill",
+            "drink": "Matcha Latte"
         },
         {
-            "name":"Indogold",
-            "sellprice":[ 54139, 45803, 53510],
-            "buyprice":[ 49139, 42803, 51510],
-            "vendorColor":"rgba(240, 183, 94, 1)",
+            "id":3,
+            "name" : "Maxima",
+            "drink": "Original Blend"
         },
         {
-            "name" : "Pegadaian",
-            "sellprice":[ 55387,55042,55317],
-            "buyprice":[ 55401, 55063, 54911],
-            "vendorColor":"rgba(191, 212, 46, 1)",
+            "id":4,
+            "name" : "Karen",
+            "drink": "Strawberry Juice"
+        }
+    ],
+	"users" : [
+        {
+            "id" : 1,
+            "firstName": "Jane",
+            "lastName": "Finnegan",
+            "email": "janefinn@something.com",
+            "age": 34,
+            "companyId": "1"
         },
+        {
+            "id" : 2,
+            "firstName": "Stephen",
+            "lastName": "Williams",
+            "email": "s.will@something.com",
+            "age": 32,
+            "companyId": "1"
+        },
+        {
+            "id" : 3,
+            "firstName": "Sierra",
+            "lastName": "Dannigan",
+            "email": "sierra.dannigan@something.com",
+            "age": 43,
+            "companyId": "2"
+        }
+    ],
+	 "companies" : [
+        {
+            "id" : 1,
+            "name" : "AppleComp",
+            "description" : "The multinational security corporation Blackwater Worldwide was reported to have obtained over thirty dummy corporations in order to secure million dollar contracts from the United States government. "
+        },
+        {
+            "id" : 2,
+            "name" : "Glencairn",
+            "description" : "Glencairn, Ltd was an American company used by the Sinclair Broadcast Group to operate virtual duopolies during the 1990s when legal duopolies weren"t legal by the Federal Communications Commission. The initial capital was supplied by Carolyn Smith, wife of Sinclair founder Julian Smith and mother of current Sinclair CEO David Smith. Carolyn Smith also controlled 70% of Glencairn"s stock, eventually reaching 97%.  "
+        }
     ]
 }
