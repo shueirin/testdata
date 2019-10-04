@@ -20,19 +20,5 @@
             "name" : "Karen",
             "drink": "Strawberry Juice"
         }
-    ],
-    "occupationList" : [
-        {
-            "id" : 1,
-            "occupation" : "Self Employed"
-        },
-        {
-            "id" : 2,
-            "occupation" : "Enterpreuneur"
-        },
-          {
-            "id" : 3,
-            "occupation" : "Profesional"
-        }
     ]
 }
