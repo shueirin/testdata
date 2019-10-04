@@ -36,8 +36,8 @@
     "vendors" : [
         {
             "name" : "Pegadaian",
-            "sellprice" : [ 55387, 55042, 55317 ],
-            "buyprice" : [ 55401, 55063, 55408 ],
+            "sellprice" :  55317,
+            "buyprice" : 55401,
             "vendorColor" : "rgba(191, 212, 46, 1)"
         }
     ]
